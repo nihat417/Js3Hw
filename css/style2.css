@@ -1,0 +1,19 @@
+td{
+    width: 15px;
+    height: 15px;
+    border-color: black;
+    border: 2px red ;
+    background-color: aquamarine;
+    padding: 1.4px;
+}
+
+.container{
+    display: flex;
+}
+
+.btn{
+    display: flex;
+}
+.bgblack{
+    background: black;
+}

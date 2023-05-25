@@ -1,0 +1,7 @@
+body{ background: rgb(0, 42, 54);}
+.container{ display: flex; justify-content: center; margin-top: 30px;} 
+.container1{ display: flex; justify-content: center; margin-top: 20px;}
+.clock{ width: 33%; display: flex; justify-content: center;background-color: rgb(8, 65, 75);}
+.btnstart{background: rgb(62, 82, 89); color: white; padding: 10px 20px; margin-right: 5px; border-radius: 10%;}
+.btnstop{background:rgb(205, 74, 19); color: white;padding: 10px 20px; margin-right: 5px;border-radius: 10%;}
+.btnresume{background: rgb(41, 161, 153);color: white;padding: 10px 30px;border-radius: 10%;}
